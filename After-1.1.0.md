@@ -22,6 +22,7 @@ use Pagekit\User\Model\Role;
 With the introduction of the new Marketplace, the types of extensions change to:
 * biskuit-extension
 * biskuit-theme
+
 This wording needs to be updated in the composer.json file:
 ```
 ...
